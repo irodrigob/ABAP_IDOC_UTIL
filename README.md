@@ -4,7 +4,7 @@ Clase que contiene utilidades para el tratamiento de IDOC / Class that contains 
 # Funcionalidad / Functionality
 
 - Class ZCL_CA_IDOC_UTILITIES
-  - Metodos / Methods GET_IDOC_STATUS-> Devuelve el estado de un IDOC / Return the IDOC status
+  - Método / Method GET_IDOC_STATUS-> Devuelve el estado de un IDOC / Return the IDOC status
   
 # Dependencias/Dependencies
 
